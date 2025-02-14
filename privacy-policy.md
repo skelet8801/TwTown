@@ -3,29 +3,23 @@
 Last Updated: February 14, 2025
 
 ## 1. Introduction
-Thank you for using our application (“the App”). The primary function of the App is to **download video and photo from Twitter** .  
-- For YouTube comments, the App **does not require any user login** to load and read aloud.  
-- For X (Twitter) posts and comments, the App includes a basic browser (using WKWebView). Users must log in to X within this browser, and the App will automatically store tokens and cookies locally to load and read X content.
+Thank you for using our application (“the App”). The primary function of the App is to **download video and photo from Twitter(X)** .  
+- For X (Twitter) posts and comments, the App includes a basic browser (using WKWebView). Users must log in to X within this browser, and the App will automatically store tokens and cookies locally to load X content.
 
 This Privacy Policy aims to help you understand how we collect, use, store, share, and protect your personal information. If you have any questions or concerns about this policy, please contact us using the information provided below.
 
 ---
 
 ## 2. Information We Collect
-1. **YouTube Comment Data**  
-   - We retrieve publicly accessible YouTube comments via YouTube interfaces or web pages solely for the purpose of reading them aloud.  
-   - You do not need to log in to YouTube, nor provide any YouTube account credentials.  
-   - We do not store or collect any personally identifiable information from YouTube users.
 
-2. **X (Twitter) Login Data**  
+1. **X (Twitter) Login Data**  
    - When you log in to X (Twitter) within the embedded WKWebView in the App, the X platform provides tokens and cookies, which are stored locally on your device to maintain your login session.  
-   - These tokens and cookies are used only to load and read posts and comments on X.  
+   - These tokens and cookies are used only to load posts and comments on X.  
    - The App **does not** transmit or share these login credentials with our servers or any third party.
 
-3. **App Usage Data**  
+2. **App Usage Data**  
    - We currently **do not actively collect** any usage or analytics data.  
    - If we decide to collect anonymous usage information in the future, we will inform you before doing so and update this Privacy Policy accordingly.  
-   - If you use your device’s built-in Text-to-Speech (TTS) functionality, that process is managed by your device’s operating system and is not collected or stored by us.
 
 ---
 
