@@ -24,13 +24,11 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 ---
 
 ## 3. How We Use the Information
-1. **Reading Aloud Comments and Posts**  
-   - To retrieve and read aloud YouTube comments, as well as X (Twitter) posts and comments, ensuring the core functionality of the App.
 
-2. **Maintaining Login Sessions**  
+1. **Maintaining Login Sessions**  
    - When you log in to X using the App’s basic browser, locally stored tokens and cookies save you from repeatedly entering your X credentials.
 
-3. **Not for Advertising or Analytics**  
+2. **Not for Advertising or Analytics**  
    - The App does **not currently integrate** any advertising networks or third-party analytics tools. We do not use your login or comment information for advertising or commercial analytics.
 
 ---
@@ -43,21 +41,18 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
    - We take reasonable measures to ensure the App does not misuse or leak locally stored information.
 
 3. **Data Retention**  
-   - When you log out of X (Twitter) in the embedded browser or clear the App’s cache, the associated tokens and cookies will be removed.
+   - When you log out of X (Twitter) in the embedded browser or delete the App, the associated tokens and cookies will be removed.
 
 ---
 
 ## 5. Third-Party Services & Disclaimer
-1. **YouTube**  
-   - We have no direct affiliation with YouTube. We only use publicly available data to retrieve comments for reading aloud.  
-   - This App does not represent Google or YouTube and assumes no responsibility for YouTube’s official services.
 
-2. **X (Twitter)**  
+1. **X (Twitter)**  
    - We have no direct affiliation with X (Twitter). The basic browser in the App only facilitates user login to load and read X posts and comments.  
    - The App does not represent X (Twitter) and assumes no responsibility for X’s official services.
 
-3. **User Responsibility**  
-   - While using the App to read comments and posts, you remain subject to the Terms of Service and community guidelines of YouTube and X (Twitter).
+2. **User Responsibility**  
+   - While using the App to download media, you remain subject to the Terms of Service and community guidelines of X (Twitter).
 
 ---
 
@@ -77,6 +72,6 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 If you have any questions, comments, or concerns about this Privacy Policy or how we handle your data, please contact us at:
 
 - **Email**: jly123m1@gmail.com
-- **GitHub**: https://github.com/skelet8801/Speak-Comments/tree/main
+- **GitHub**: https://github.com/skelet8801/XDownlaod
 
 Thank you for reading and agreeing to this Privacy Policy. If you do not agree with these terms, please discontinue using the App.
