@@ -4,7 +4,7 @@ Last Updated: February 14, 2025
 
 ## 1. Introduction
 Thank you for using our application (“the App”). The primary function of the App is to **download video and photo from Twitter(X)** .  
-- For X (Twitter) posts and comments, the App includes a basic browser (using WKWebView). Users must log in to X within this browser, and the App will automatically store tokens and cookies locally to load X content.
+- For X (Twitter) downloading, the App includes a basic browser (using WKWebView). Users must log in to X within this browser, and the App will automatically store tokens and cookies locally to load X content.
 
 This Privacy Policy aims to help you understand how we collect, use, store, share, and protect your personal information. If you have any questions or concerns about this policy, please contact us using the information provided below.
 
@@ -14,7 +14,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 
 1. **X (Twitter) Login Data**  
    - When you log in to X (Twitter) within the embedded WKWebView in the App, the X platform provides tokens and cookies, which are stored locally on your device to maintain your login session.  
-   - These tokens and cookies are used only to load posts and comments on X.  
+   - These tokens and cookies are used only to load tweet info from X.  
    - The App **does not** transmit or share these login credentials with our servers or any third party.
 
 2. **App Usage Data**  
@@ -29,7 +29,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
    - When you log in to X using the App’s basic browser, locally stored tokens and cookies save you from repeatedly entering your X credentials.
 
 2. **Not for Advertising or Analytics**  
-   - The App does **not currently integrate** any advertising networks or third-party analytics tools. We do not use your login or comment information for advertising or commercial analytics.
+   - The App does **not currently integrate** any advertising networks or third-party analytics tools. We do not use your login information for advertising or commercial analytics.
 
 ---
 
