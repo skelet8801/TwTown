@@ -48,7 +48,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 ## 5. Third-Party Services & Disclaimer
 
 1. **X (Twitter)**  
-   - We have no direct affiliation with X (Twitter). The basic browser in the App only facilitates user login to load and read X posts and comments.  
+   - We have no direct affiliation with X (Twitter). The basic browser in the App only facilitates user login to load tweet info.  
    - The App does not represent X (Twitter) and assumes no responsibility for X’s official services.
 
 2. **User Responsibility**  
