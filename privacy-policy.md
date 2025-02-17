@@ -2,6 +2,15 @@
 
 Last Updated: February 14, 2025
 
+
+**Important:**
+
+All content downloaded through this App is for personal learning use only. It must not be used for any commercial purposes, 
+nor distributed to any individuals or organizations. Users who violate these terms will bear full legal responsibility. 
+If the user does not agree with these terms,  he/she is not permitted to use this app. 
+By using this app, the user is deemed to have agreed to these terms.
+
+
 ## 1. Introduction
 Thank you for using our application (“the App”). The primary function of the App is to **download video and photo from Twitter(X)** .  
 - For X (Twitter) downloading, the App includes a basic browser (using WKWebView). Users must log in to X within this browser, and the App will automatically store tokens and cookies locally to load X content.
