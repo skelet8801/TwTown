@@ -10,6 +10,12 @@ nor distributed to any individuals or organizations. Users who violate these ter
 If the user does not agree with these terms,  he/she is not permitted to use this app. 
 By using this app, the user is deemed to have agreed to these terms.
 
+By logging into X with their account, the user agrees to the terms of use of X. 
+This application serves only as an auxiliary tool to help users learn, research, and communicate within the framework of X's terms. 
+If the user utilizes the data for illegal activities, they will bear full legal responsibility. 
+Continued use of this app is deemed as the user's acceptance of these terms.
+
+
 
 ## 1. Introduction
 Thank you for using our application (“the App”). The primary function of the App is to **download video and photo from Twitter(X)** .  
