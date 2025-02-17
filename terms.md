@@ -8,6 +8,7 @@ These Terms govern
 
 the use of TwTown, and,
 any other related Agreement or legal relationship with the Owner
+
 in a legally binding way. Capitalized words are defined in the relevant dedicated section of this document.
 
 The User must read this document carefully.
@@ -25,6 +26,7 @@ Owner contact email: jly123m1@gmail.com
 Please note that some provisions in these Terms may only apply to certain categories of Users. In particular, certain provisions may only apply to Consumers or to those Users that do not qualify as Consumers. Such limitations are always explicitly mentioned within each affected clause. In the absence of any such mention, clauses apply to all Users.
 
 **Terms of Use**
+
 Unless otherwise specified, the terms of use detailed in this section apply generally when using TwTown.
 
 Single or additional conditions of use or access may apply in specific scenarios and in such cases are additionally indicated within this document.
@@ -36,6 +38,7 @@ Users aren’t located in a country that is subject to a U.S. Government embargo
 Users aren’t listed on any U.S. Government list of prohibited or restricted parties;
 
 **Content on TwTown**
+
 Unless where otherwise specified or clearly recognizable, all content available on TwTown is owned or provided by the Owner or its licensors.
 
 The Owner undertakes its utmost effort to ensure that the content provided on TwTown infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result.
@@ -43,6 +46,7 @@ The Owner undertakes its utmost effort to ensure that the content provided on Tw
 In such cases, without prejudice to any legal prerogatives of Users to enforce their rights, Users are kindly asked to preferably report related complaints using the contact details provided in this document.
 
 **Rights regarding content on TwTown - All rights reserved**
+
 The Owner holds and reserves all intellectual property rights for any such content.
 
 Users may not therefore use such content in any way that is not necessary or implicit in the proper use of the Service.
@@ -54,6 +58,7 @@ Where explicitly stated on TwTown, the User may download, copy and/or share some
 Any applicable statutory limitation or exception to copyright shall stay unaffected.
 
 **Access to external resources**
+
 Through TwTown Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.
 
 Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.
@@ -63,6 +68,7 @@ In particular, on TwTown Users may see advertisements provided by third parties.
 The Owner is not responsible for any matters resulting from such interaction with third parties, such as anything resulting from visiting third-party websites or using third-party content.
 
 **Acceptable use**
+
 TwTown and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
 
 Users are solely responsible for making sure that their use of TwTown and/or the Service violates no applicable law, regulations or third-party rights.
@@ -85,6 +91,7 @@ Paid subscriptions begin on the day the payment is received by the Owner.
 In order to maintain subscriptions, Users must pay the required recurring fee in a timely manner. Failure to do so may cause service interruptions.
 
 **Subscriptions handled via Apple ID**
+
 Users may subscribe to a Product using the Apple ID associated with their Apple App Store account by using the relevant process on TwTown. When doing so, Users acknowledge and accept that
 
 any payment due shall be charged to their Apple ID account;
@@ -106,6 +113,7 @@ Limitation of liability
 Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar State and Territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms of Use, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
 
 **US Users**
+
 Disclaimer of Warranties
 
 TwTown is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by user from owner or through the Service will create any warranty not expressly stated herein.
@@ -136,6 +144,7 @@ This limitation of liability section shall apply to the fullest extent permitted
 Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, therefore the above limitations or exclusions may not apply to User. The terms give User specific legal rights, and User may also have other rights which vary from jurisdiction to jurisdiction. The disclaimers, exclusions, and limitations of liability under the terms shall not apply to the extent prohibited by applicable law.
 
 **Indemnification**
+
 The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from
 
 User’s use of and access to the Service, including any data or content transmitted or received by User;
@@ -149,9 +158,11 @@ statutory provision by User or its affiliates, officers, directors, agents, co-b
 **Common provisions**
 
 **No Waiver**
+
 The Owner’s failure to assert any right or provision under these Terms shall not constitute a waiver of any such right or provision. No waiver shall be considered a further or continuing waiver of such term or any other term.
 
 **Service interruption**
+
 To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately.
 
 Within the limits of law, the Owner may also decide to suspend or terminate the Service altogether. If the Service is terminated, the Owner will cooperate with Users to enable them to withdraw Personal Data or information in accordance with applicable law.
@@ -159,17 +170,21 @@ Within the limits of law, the Owner may also decide to suspend or terminate the 
 Additionally, the Service might not be available due to reasons outside the Owner’s reasonable control, such as “force majeure” (eg. labor actions, infrastructural breakdowns or blackouts etc).
 
 **Service reselling**
+
 Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of TwTown and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program.
 
 **Privacy policy**
+
 To learn more about the use of their Personal Data, Users may refer to the privacy policy of TwTown.
 
 **Intellectual property rights**
+
 Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to TwTown are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
 
 All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with TwTown are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.
 
 **Changes to these Terms**
+
 The Owner reserves the right to amend or otherwise modify these Terms at any time. In such cases, the Owner will appropriately inform the User of these changes.
 
 Such changes will only affect the relationship with the User for the future.
@@ -181,34 +196,43 @@ The applicable previous version will govern the relationship prior to the User's
 If required by applicable law, the Owner will specify the date by which the modified Terms will enter into force.
 
 **Assignment of contract**
+
 The Owner reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these Terms, taking the User’s legitimate interests into account. Provisions regarding changes of these Terms will apply accordingly.
 
 Users may not assign or transfer their rights or obligations under these Terms in any way, without the written permission of the Owner.
 
 **Contacts**
+
 All communications relating to the use of TwTown must be sent using the contact information stated in this document.
 
 **Severability**
+
 Should any provision of these Terms be deemed or become invalid or unenforceable under applicable law, the invalidity or unenforceability of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
 
 **EU Users**
+
 Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts. In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law.
 
 Without prejudice to the above, the nullity, invalidity or the impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.
 
 **US Users**
+
 Any such invalid or unenforceable provision will be interpreted, construed and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent. These Terms constitute the entire Agreement between Users and the Owner with respect to the subject matter hereof, and supersede all other communications, including but not limited to all prior agreements, between the parties with respect to such subject matter. These Terms will be enforced to the fullest extent permitted by law.
 
 **Governing law**
+
 These Terms are governed by the law of the place where the Owner is based, as disclosed in the relevant section of this document, without regard to conflict of laws principles.
 
 **Exception for European Consumers**
+
 However, regardless of the above, if the User qualifies as a European Consumer and has their habitual residence in a country where the law provides for a higher consumer protection standard, such higher standards shall prevail.
 
 **Venue of jurisdiction**
+
 The exclusive competence to decide on any controversy resulting from or connected to these Terms lies with the courts of the place where the Owner is based, as displayed in the relevant section of this document.
 
 **Exception for European Consumers**
+
 The above does not apply to any Users that qualify as European Consumers, nor to Consumers based in Switzerland, Norway or Iceland.
 
 © 20225 All rights reserved
