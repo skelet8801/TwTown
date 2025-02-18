@@ -1,4 +1,7 @@
 # TwTown
+
+<img src="https://github.com/skelet8801/TwTown/blob/main/256.png" alt="AppIcon_256" width="64"/>
+
 Twitter collection for  Videos &amp; Photos.
 
 Search for TwTown in App Store.
