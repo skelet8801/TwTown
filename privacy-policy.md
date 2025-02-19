@@ -63,6 +63,6 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 If you have any questions, comments, or concerns about this Privacy Policy or how we handle your data, please contact us at:
 
 - **Email**: jly123m1@gmail.com
-- **GitHub**: https://github.com/skelet8801/XDownlaod/issues
+- **GitHub**: https://github.com/skelet8801/TwTown
 
 Thank you for reading and agreeing to this Privacy Policy. If you do not agree with these terms, please discontinue using the App.
