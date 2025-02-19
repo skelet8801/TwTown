@@ -1,9 +1,8 @@
-## Terms of Use of TwTown
+# Terms of Use of TwTown
 
 Last updated: February 19, 2025
 
-
-
+<br>
 
 ## User Agreement
 
@@ -36,11 +35,7 @@ Your continued use of this App indicates that you have understood and agreed to 
 If you do not agree to these terms, please stop using this App immediately.
 
 
-
-
-
-
-
+<br><br>
 ## Introduction
 
 These Terms govern
