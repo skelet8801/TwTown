@@ -32,7 +32,7 @@ More detailed terms and instructions are in the following section of this docume
 
 Your continued use of this App indicates that you have understood and agreed to the terms herein.
 
-If you do not agree to these terms, please stop using this App immediately.
+**If you do not agree to these terms, please stop using this App immediately.**
 
 
 <br><br>
