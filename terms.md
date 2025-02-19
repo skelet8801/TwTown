@@ -2,6 +2,37 @@
 
 Last updated: February 17, 2025
 
+
+
+**User Agreement**
+
+By using this application (hereinafter referred to as "this App"), you agree to comply with the following terms and conditions:
+
+**1  Disclaimer**
+
+This App may involve third-party content. Users must comply with the terms of use, regulations, and applicable laws of third-party platforms during usage. Users are prohibited from engaging in any illegal activities through this App, including but not limited to copyright infringement, spreading malicious software, or other unlawful activities.
+
+**2  Legal Responsibility**
+Users agree to bear full responsibility for any legal liabilities, lawsuits, fees, or losses caused by their violation of third-party platform terms, laws, or engagement in illegal activities while using this App. The App and its developers will not be held liable for any such issues.
+
+**3  User Commitment**
+Users commit to:
+
+Complying with all applicable laws, regulations, and the terms of use of third-party platforms.
+Not engaging in any illegal activities, infringing on others' rights, or violating public morals.
+Not using this App for any unauthorized activities or to publish illegal content.
+
+**4  Additional Terms**
+More detailed terms and instructions are in the following section of this document.
+
+**5  Continued Use**
+Your continued use of this App indicates that you have understood and agreed to the terms herein.
+If you do not agree to these terms, please stop using this App immediately.
+
+
+
+
+
 **Introduction**
 
 These Terms govern
