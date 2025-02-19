@@ -20,9 +20,9 @@ Users agree to bear full responsibility for any legal liabilities, lawsuits, fee
 
 Users commit to:
 
-Complying with all applicable laws, regulations, and the terms of use of third-party platforms.
-Not engaging in any illegal activities, infringing on others' rights, or violating public morals.
-Not using this App for any unauthorized activities or to publish illegal content.
+- Complying with all applicable laws, regulations, and the terms of use of third-party platforms.
+- Not engaging in any illegal activities, infringing on others' rights, or violating public morals.
+- Not using this App for any unauthorized activities or to publish illegal content.
 
 **4.  Additional Terms**
 
