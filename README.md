@@ -2,13 +2,13 @@
 
 <img src="https://github.com/skelet8801/TwTown/blob/main/256.png" alt="256" width="64"/>
 
-Twitter collection for  Videos &amp; Photos.
+Tweet collection for  Videos &amp; Photos.
 
 Search for TwTown in App Store.
 
 
 ## Features
-Twitter collection for  Videos &amp; Photos.
+Tweet collection for  Videos &amp; Photos.
 
 If you have any questions or suggestions, feel free to share them here.
 
