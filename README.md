@@ -19,7 +19,7 @@ You can ask question and report bugs in **"issues"** tab , or send me an email: 
 ## Download & Install & Use
 Please search for "TwTown" in the App Store to download.
 
-X requires login to access posts and comments. Please log in within the app.
+It requires login to access posts and comments. Please log in within the app.
 
 This app does not collect any data.
 
