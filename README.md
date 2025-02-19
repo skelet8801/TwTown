@@ -12,7 +12,7 @@ Twitter collection for  Videos &amp; Photos.
 
 If you have any questions or suggestions, feel free to share them here.
 
-You can ask question and report bugs in "issues" Tab .
+You can ask question and report bugs in **"issues"** tab , or send me an email: jly123m1@gmail.com
 
 
 
