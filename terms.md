@@ -1,6 +1,6 @@
 ## Terms of Use of TwTown
 
-Last updated: February 17, 2025
+Last updated: February 19, 2025
 
 
 
@@ -274,4 +274,4 @@ The exclusive competence to decide on any controversy resulting from or connecte
 
 The above does not apply to any Users that qualify as European Consumers, nor to Consumers based in Switzerland, Norway or Iceland.
 
-© 20225 All rights reserved
+© 2025 All rights reserved
