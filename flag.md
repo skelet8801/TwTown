@@ -3,4 +3,5 @@ N
 M
 
 P
-QQQ
+
+Q
