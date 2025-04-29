@@ -2,6 +2,15 @@
 
 
 
+**Notice(通知)(404):**
+
+Due to an API change, data retrieval failed with a 404 error.
+We are working on a fix and will release an updated version shortly.
+
+由于接口变更，导致获取数据失败并出现 404 错误。
+我们正在修复，更新版本将在稍后推送。
+
+
 ### 1  Notes:
 
 - 1  You need to log in to X (formerly Twitter) with your own account on the Auth page to access media content (similar to how you must be logged in on a browser to browse X's website).
