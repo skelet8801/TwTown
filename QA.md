@@ -4,11 +4,11 @@
 
 **Notice(通知)(404):**
 
-Due to an API change, data retrieval failed with a 404 error.
-We are working on a fix and will release an updated version shortly.
+Due to an API(Twitter) change, data retrieval failed with a 404 error.
+We have fixed the issue. Please update to the latest version as soon as possible.
 
-由于接口变更，导致获取数据失败并出现 404 错误。
-我们正在修复，更新版本将在稍后推送。
+由于X接口变更，导致数据加载失败（404）。 我们已修复，请尽快**更新至最新版本**。
+
 
 
 ### 1  Notes:
